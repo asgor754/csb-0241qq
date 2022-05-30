@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://asgor754.github.io/csb-0241qq/static/css/main.96db552e.chunk.css",
+    "main.js": "https://asgor754.github.io/csb-0241qq/static/js/main.a4ccae6a.chunk.js",
+    "main.js.map": "https://asgor754.github.io/csb-0241qq/static/js/main.a4ccae6a.chunk.js.map",
+    "runtime-main.js": "https://asgor754.github.io/csb-0241qq/static/js/runtime-main.ace88a64.js",
+    "runtime-main.js.map": "https://asgor754.github.io/csb-0241qq/static/js/runtime-main.ace88a64.js.map",
+    "static/js/2.58b32ff0.chunk.js": "https://asgor754.github.io/csb-0241qq/static/js/2.58b32ff0.chunk.js",
+    "static/js/2.58b32ff0.chunk.js.map": "https://asgor754.github.io/csb-0241qq/static/js/2.58b32ff0.chunk.js.map",
+    "static/js/3.d37db234.chunk.js": "https://asgor754.github.io/csb-0241qq/static/js/3.d37db234.chunk.js",
+    "static/js/3.d37db234.chunk.js.map": "https://asgor754.github.io/csb-0241qq/static/js/3.d37db234.chunk.js.map",
+    "index.html": "https://asgor754.github.io/csb-0241qq/index.html",
+    "static/css/main.96db552e.chunk.css.map": "https://asgor754.github.io/csb-0241qq/static/css/main.96db552e.chunk.css.map",
+    "static/js/2.58b32ff0.chunk.js.LICENSE.txt": "https://asgor754.github.io/csb-0241qq/static/js/2.58b32ff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ace88a64.js",
+    "static/js/2.58b32ff0.chunk.js",
+    "static/css/main.96db552e.chunk.css",
+    "static/js/main.a4ccae6a.chunk.js"
+  ]
+}
